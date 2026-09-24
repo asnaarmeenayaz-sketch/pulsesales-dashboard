@@ -1,0 +1,6 @@
+{
+  "name": "PulseSales — Executive Sales & Performance Dashboard",
+  "description": "Production-grade Sales & Performance Intelligence platform with pipeline velocity, revenue forecasting, team leaderboards, and 1-click VS Code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
